@@ -1,1 +1,1 @@
-alert("First Github File")
+alert("First Github")
